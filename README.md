@@ -1,6 +1,6 @@
 # Hi, I'm Keerthija Bontu 👋
 
-M.Eng Artificial Intelligence student passionate about Machine Learning, Computer Vision, and AI robustness.
+M.Eng Information Technology(Artificial Intelligence) student passionate about Machine Learning, Computer Vision, and AI robustness.
 
 Currently exploring deep learning systems and adversarial machine learning.
 
