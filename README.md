@@ -8,6 +8,16 @@ I am interested in Machine Learning, Deep Learning, and building reliable AI sys
 
 ## AI / Machine Learning Projects
 
+LLM-Based Document Intelligence System
+Built an end-to-end pipeline to process unstructured documents using LLMs
+Compared transformer models (BART vs T5) for summarization
+Designed a rule-based evaluation system for model comparison
+Extracted action items, keywords, and structured insights
+Generated outputs in JSON and CSV formats
+Tools: Python, Hugging Face Transformers, NLP
+
+---
+
 ### Cancer Detection in Histopathology Images
 ResNet-34 model trained on the PatchCamelyon dataset to detect tumor vs non-tumor tissue.  
 The project studies how different learning rate scheduling strategies affect convergence behaviour and generalization.
@@ -47,18 +57,23 @@ https://github.com/Keerthija5/time-series-forecasting-rnn-models
 ## Technical Skills
 
 Programming  
-- Python
+- Python,C
 
-Machine Learning  
-- Deep Learning
-- Convolutional Neural Networks (CNN)
-- Recurrent Neural Networks (RNN)
-- Adversarial Machine Learning
+AI & ML:
+Machine Learning, Deep Learning, Computer Vision
+CNN, RNN, LSTM, GRU, Transfer Learning
+Time-Series Forecasting, NLP (basic), LLM Applications
 
-Frameworks & Libraries  
-- PyTorch
-- NumPy
-- Scikit-learn
+Libraries & Tools:
+PyTorch, Scikit-learn, NumPy, Pandas, Matplotlib
+Hugging Face, LangChain 
+Jupyter Notebook, VS Code, PyCharm, Git, Linux
+
+Concepts:
+Data Preprocessing, Feature Engineering
+Model Training, Evaluation & Optimization
+Machine Learning Pipelines, Data Pipelines, ETL
+Basic Software Testing
 
 ---
 
@@ -73,6 +88,9 @@ SRH University of Applied Sciences
 
 ## Interests
 
+- Applied Machine Learning
+- LLM and Gen AI
+- Real world AI Application
 - Deep Learning
 - Computer Vision
 - AI Robustness and Adversarial Learning
