@@ -1,83 +1,69 @@
-# Hi, I'm Keerthija Bontu 👋
+# Hi, I'm Keerthija Bontu
 
-M.Eng. Information Technology (Artificial Intelligence) student at SRH University of Applied Sciences.
+I am a Master's student in Information Technology with a specialisation in Artificial Intelligence at SRH University of Applied Sciences. My background is in Electronics and Communication Engineering, so I like working on projects where AI is connected to real systems, data, evaluation, and practical decision-making.
 
-I am interested in Machine Learning, Deep Learning, and building reliable AI systems through experimentation and evaluation.
+Right now, I am building my profile around AI engineering, machine learning, deep learning, LLM applications, data analysis, and model evaluation. I am especially interested in projects that go beyond notebooks and show how an AI workflow can be tested, explained, and used.
 
----
+## Projects I Am Building And Improving
 
-## AI / Machine Learning Projects
+### AI-Powered Document Intelligence & Decision Support Assistant
 
-### LLM-Based Document Intelligence System
+RAG-based Streamlit application for analysing uploaded PDFs, study material, business documents, and technical notes. It includes document upload, PDF preview, source-grounded question answering, structured insights, retrieval traceability, answer evaluation, and exportable reports.
 
-Pipeline to process unstructured text using LLMs with model comparison (BART vs T5) and evaluation.
-Generates structured outputs with extracted action items and insights.
-Repository: https://github.com/Keerthija5/llm_document_intelligence
+Repository: [ai-document-decision-support-assistant](https://github.com/Keerthija5/ai-document-decision-support-assistant)
 
----
+### LLM-Based Business Document Triage Dashboard
 
-### Cancer Detection in Histopathology Images
+Practical LLM/NLP dashboard for processing business text, emails, maintenance notes, job alerts, and task-style documents. It compares BART and T5 summaries, extracts structured fields, classifies document type, flags human-review cases, and exports JSON/CSV outputs.
 
-ResNet-34 model trained on the PatchCamelyon dataset to detect tumor vs non-tumor tissue.
-Studied the impact of learning rate scheduling on convergence and generalization.
-Repository: https://github.com/Keerthija5/pcam-cancer-detection-resnet34
+Repository: [llm_document_intelligence](https://github.com/Keerthija5/llm_document_intelligence)
 
----
+### Training Optimisation for Histopathology Image Classification
 
-### MNIST PGD Adversarial Attack
+Deep learning experiment on the PatchCamelyon dataset using ResNet-34 for tumour vs non-tumour image classification. My individual focus was analysing how learning-rate schedules affect convergence, stability, and generalisation using multi-seed evaluation, F1-score, ROC-AUC, learning curves, and gradient norm analysis.
 
-CNN classifier evaluated under Projected Gradient Descent (PGD) adversarial attacks.
-Analyzed robustness against increasing perturbation strength.
-Repository: https://github.com/Keerthija5/mnist-pgd-adversarial-attack
-
----
+Repository: [pcam-cancer-detection-resnet34](https://github.com/Keerthija5/pcam-cancer-detection-resnet34)
 
 ### Time Series Forecasting with RNN Models
 
-Compared LSTM, GRU, and Bidirectional LSTM models for time series prediction.
-Studied the impact of differencing on forecasting accuracy.
-Repository: https://github.com/Keerthija5/time-series-forecasting-rnn-models
+Forecasting pipeline comparing classical baselines with LSTM, GRU, and BiLSTM models. The project studies the effect of differencing, evaluates MAE/RMSE/MAPE, saves forecast outputs, and flags high-error periods for review.
 
----
+Repository: [time-series-forecasting-rnn-models](https://github.com/Keerthija5/time-series-forecasting-rnn-models)
+
+### PGD Adversarial Robustness Evaluation
+
+Robustness analysis project using Projected Gradient Descent attacks on an MNIST CNN classifier. It evaluates clean accuracy, adversarial accuracy under increasing perturbation strengths, attack success rate, confusion matrices, and example adversarial images.
+
+Repository: [mnist-pgd-adversarial-attack](https://github.com/Keerthija5/mnist-pgd-adversarial-attack)
+
+### QCA-Based Reversible Switched Network
+
+Bachelor's thesis project from my Electronics and Communication Engineering background. I designed and simulated reversible logic blocks and a reversible switched network using Quantum Dot Cellular Automata, then compared the final design using cell count, area, simulation time, energy, and power.
+
+Repository: [qca-reversible-switched-network](https://github.com/Keerthija5/qca-reversible-switched-network)
 
 ## Technical Skills
 
-**Programming:**
-Python, C
+**Programming and Data:** Python, SQL, C, Pandas, NumPy, data preprocessing, feature engineering
 
-**AI & ML:**
-Machine Learning, Deep Learning, Computer Vision
-CNN, RNN, LSTM, GRU, Transfer Learning
-Time-Series Forecasting, Natural Language Processing, LLM-based Applications
+**Machine Learning and Deep Learning:** Scikit-learn, PyTorch, CNNs, RNNs, LSTM, GRU, ResNet-34, model training, validation, evaluation
 
-**Libraries & Tools:**
-PyTorch, Scikit-learn, NumPy, Pandas, Matplotlib
-Hugging Face Transformers, LangChain
-Jupyter Notebook, VS Code, PyCharm, Git, Linux
+**LLMs and NLP:** Hugging Face Transformers, BART, T5, summarisation, information extraction, structured output generation, RAG, prompt design, LLM output evaluation
 
-**Concepts:**
-Data Preprocessing, Feature Engineering
-Model Training, Evaluation & Optimization
-Machine Learning Pipelines, Data Pipelines, ETL
-Basic Software Testing
+**Evaluation and Experimentation:** accuracy, F1-score, ROC-AUC, MAE, RMSE, MAPE, confusion matrices, robustness evaluation, multi-seed experiments, error analysis
 
----
+**Tools:** Git, GitHub, Jupyter Notebook, Streamlit, Matplotlib, Linux, QCA Designer
+
+## What I Am Focusing On
+
+- Building AI projects that are practical and explainable
+- Improving my skills in LLM applications, RAG, and AI evaluation
+- Connecting machine learning with data pipelines, dashboards, and decision support
+- Learning how to write cleaner project documentation and make my work easier to review
 
 ## Education
 
-M.Eng. Information Technology (Artificial Intelligence)
+M.Eng. Information Technology, Artificial Intelligence  
 SRH University of Applied Sciences
 
 B.Tech Electronics and Communication Engineering
-
----
-
-## Interests
-
-* Applied Machine Learning
-* LLMs and Generative AI
-* Real-world AI Applications
-* Deep Learning
-* Computer Vision
-* AI Robustness and Adversarial Learning
-* Time Series Forecasting
