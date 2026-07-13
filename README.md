@@ -26,7 +26,7 @@ Repository: [pcam-cancer-detection-resnet34](https://github.com/Keerthija5/pcam-
 
 ### Time Series Forecasting with RNN Models
 
-Forecasting and error-monitoring pipeline comparing 4 classical baselines with LSTM, GRU, and BiLSTM models. The project studies the effect of differencing, evaluates MAE/RMSE/MAPE, saves reusable output reports, checks data quality, and flags high-error periods for review. In the final run, BiLSTM with differencing achieved RMSE 34.931 and improved RMSE by about 14.88% compared with the next-best model.
+Forecasting and error-monitoring pipeline comparing 4 classical baselines with LSTM, GRU, and BiLSTM models. The project studies the effect of differencing, evaluates MAE/RMSE/MAPE, saves reusable output reports, checks data quality, and flags high-error periods for review. I also added an optional PySpark preprocessing step for schema checks, lag features, rolling-window features, target creation, and chronological split labeling. In the final run, BiLSTM with differencing achieved RMSE 34.931 and improved RMSE by about 14.88% compared with the next-best model.
 
 Repository: [time-series-forecasting-rnn-models](https://github.com/Keerthija5/time-series-forecasting-rnn-models)
 
@@ -44,7 +44,7 @@ Repository: [qca-reversible-switched-network](https://github.com/Keerthija5/qca-
 
 ## Technical Skills
 
-**Programming and Data:** Python, SQL, C, Pandas, NumPy, data preprocessing, feature engineering, JSON/CSV outputs
+**Programming and Data:** Python, SQL, C, Pandas, NumPy, basic PySpark preprocessing, data preprocessing, feature engineering, JSON/CSV outputs
 
 **Machine Learning and Deep Learning:** Scikit-learn, PyTorch, CNNs, RNNs, LSTM, GRU, BiLSTM, ResNet-34, model training, validation, evaluation
 
