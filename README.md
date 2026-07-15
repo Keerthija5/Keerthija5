@@ -2,7 +2,7 @@
 
 I am a Master's student in Information Technology with a specialisation in Artificial Intelligence at SRH University of Applied Sciences. My background is in Electronics and Communication Engineering, and I am now building my skills in AI, machine learning, data science, and practical model evaluation.
 
-Right now, I am trying to build projects that are not only notebook experiments. I like projects where I can test the workflow, save outputs, explain the result, and also understand where the model or system still has limitations.
+Right now, I am trying to build projects that are not only notebook experiments. I like projects where I can test the workflow, save outputs, explain the result, and also understand what I should improve next.
 
 ## Projects I Have Worked On
 
