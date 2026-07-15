@@ -18,17 +18,17 @@ LLM/NLP dashboard for processing business text, emails, maintenance notes, job a
 
 Repository: [llm_document_intelligence](https://github.com/Keerthija5/llm_document_intelligence)
 
-### ResNet-34 Training Experiment for Histopathology Image Classification
-
-Deep learning coursework experiment on the PatchCamelyon dataset using ResNet-34 for tumour vs non-tumour image classification. My individual focus was analysing how learning-rate schedules affect convergence and validation performance using multi-seed evaluation, F1-score, ROC-AUC, learning curves, and gradient norm analysis.
-
-Repository: [pcam-cancer-detection-resnet34](https://github.com/Keerthija5/pcam-cancer-detection-resnet34)
-
 ### Time Series Forecasting with RNN Models
 
 Forecasting workflow comparing 4 classical baselines with LSTM, GRU, and BiLSTM models. The project studies the effect of differencing, evaluates MAE/RMSE/MAPE, saves output reports, checks data quality, and flags high-error periods for review. I also added an optional PySpark preprocessing step for schema checks, lag features, rolling-window features, target creation, and chronological split labeling.
 
 Repository: [time-series-forecasting-rnn-models](https://github.com/Keerthija5/time-series-forecasting-rnn-models)
+
+### ResNet-34 Training Experiment for Histopathology Image Classification
+
+Deep learning coursework experiment on the PatchCamelyon dataset using ResNet-34 for tumour vs non-tumour image classification. My individual focus was analysing how learning-rate schedules affect convergence and validation performance using multi-seed evaluation, F1-score, ROC-AUC, learning curves, and gradient norm analysis.
+
+Repository: [pcam-cancer-detection-resnet34](https://github.com/Keerthija5/pcam-cancer-detection-resnet34)
 
 ### CNN Robustness Check with PGD Adversarial Attacks
 
